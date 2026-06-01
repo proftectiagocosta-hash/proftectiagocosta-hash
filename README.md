@@ -1,6 +1,4 @@
-# 👋 Olá, eu sou Tiago Costa
-
-# 👋 Hi, I'm Tiago Costa
+# 👋 Olá, eu sou Tiago Costa | Hi, I'm Tiago Costa
 
 Também conhecido como **Tendoshk**, estou construindo um ecossistema próprio que une tecnologia, inteligência artificial, educação, automação, memória persistente e criação digital.
 
@@ -10,13 +8,13 @@ Also known as **Tendoshk**, I am building my own ecosystem that connects technol
 
 ## 🇧🇷 Sobre mim
 
-Sou desenvolvedor em formação, estudante de Análise e Desenvolvimento de Sistemas, criador do ecossistema **Tendoshk** e explorador de soluções com IA, automação e organização de conhecimento.
+Sou desenvolvedor em formação, estudante de **Análise e Desenvolvimento de Sistemas**, criador do ecossistema **Tendoshk** e explorador de soluções com IA, automação e organização de conhecimento.
 
 Meu foco atual é transformar ideias, estudos e projetos em ferramentas reais, com aplicações em produtividade, educação, criação de conteúdo e sistemas inteligentes.
 
 ## 🇺🇸 About me
 
-I am a developer in training, a Systems Analysis and Development student, creator of the **Tendoshk** ecosystem, and an explorer of AI, automation, and knowledge organization solutions.
+I am a developer in progress, a **Systems Analysis and Development** student, creator of the **Tendoshk** ecosystem, and an explorer of AI, automation, and knowledge organization solutions.
 
 My current focus is turning ideas, studies, and projects into real tools, with applications in productivity, education, content creation, and intelligent systems.
 
@@ -24,39 +22,43 @@ My current focus is turning ideas, studies, and projects into real tools, with a
 
 ## 🚀 Projetos em destaque | Featured Projects
 
-### 🧠 Cérebro Tendoshk | Tendoshk Brain
+### 🧠 [Cérebro Tendoshk Público | Public Tendoshk Brain](https://github.com/proftectiagocosta-hash/cerebro-tendoshk-public)
 
-Sistema experimental de memória, curadoria, organização e continuidade de conhecimento.
-Experimental system for memory, curation, knowledge organization, and continuity.
+Vitrine pública do ecossistema Cérebro Tendoshk, com foco em arquitetura de conhecimento, memória, curadoria e continuidade.
 
-### 🎬 Tendoshk Video Forge
+Public showcase of the Tendoshk Brain ecosystem, focused on knowledge architecture, memory, curation, and continuity.
 
-Ferramenta em desenvolvimento para geração e automação de vídeos com apoio de IA.
-A tool in development for AI-assisted video generation and automation.
+### 🎬 [Tendoshk Video Forge](https://github.com/proftectiagocosta-hash/tendoshk-video-forge)
 
-### 📚 Tendoshk App
+Forja de geração e automação de vídeos com apoio de IA, integrando painel web, API e arquitetura de engine.
 
-Plataforma educacional em construção, com cursos, progresso de aulas e estrutura para certificados.
-An educational platform under development, with courses, lesson progress, and certificate structure.
+An AI-assisted video generation and automation forge, integrating a web panel, API, and engine architecture.
 
-### 🌌 Ecossistema Tendoshk | Tendoshk Ecosystem
+### 📚 [Tendoshk App](https://github.com/proftectiagocosta-hash/tendoshk-app)
 
-Um projeto maior que conecta tecnologia, propósito, criação, estudo e evolução pessoal.
-A broader project connecting technology, purpose, creation, learning, and personal evolution.
+Protótipo de plataforma educacional do ecossistema Tendoshk, com cursos, progresso de aulas e estrutura para certificados.
+
+Educational platform prototype for the Tendoshk ecosystem, with courses, lesson progress, and certificate structure.
+
+### 🌌 Tendoshk Ecosystem
+
+Um projeto maior que conecta tecnologia, propósito, criação, estudo, memória, educação e evolução pessoal.
+
+A broader project connecting technology, purpose, creation, learning, memory, education, and personal evolution.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas | Technologies & Tools
 
-* Python
-* JavaScript / TypeScript
-* Vue / Quasar
-* React / Vite
-* Node.js / Express
-* Git / GitHub
-* Linux / WSL
-* AI tools and automation
-* Knowledge management systems
+- Python
+- JavaScript / TypeScript
+- Vue / Quasar
+- React / Vite
+- Node.js / Express
+- Git / GitHub
+- Linux / WSL
+- AI tools and automation
+- Knowledge management systems
 
 ---
 
@@ -66,16 +68,16 @@ Este perfil acompanha minha jornada como desenvolvedor, criador e construtor do 
 
 This profile follows my journey as a developer, creator, and builder of the Tendoshk ecosystem.
 
-> Do micro ao macro.
-> Do fractal ao universal.
+> Do micro ao macro.  
+> Do fractal ao universal.  
 > Da partícula-base ao desenrolar do tapete da realidade.
 
-> From the micro to the macro.
-> From the fractal to the universal.
+> From the micro to the macro.  
+> From the fractal to the universal.  
 > From the base particle to the unfolding of the fabric of reality.
 
 ---
 
 ## 📫 Contato | Contact
 
-GitHub: `@proftectiagocosta-hash`
+GitHub: [`@proftectiagocosta-hash`](https://github.com/proftectiagocosta-hash)
