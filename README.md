@@ -75,9 +75,9 @@ A Python desktop application for basic RJ45/RJ11 diagnostics and early local net
 
 ---
 
-### 📚 Tendoshk App
+### 📚 MLI-Knot-Cursos
 
-Educational platform prototype with enrollment flow, lesson progression, and course structure.
+A course website prototype with enrollment flow, lesson progression, study continuity, and certificate structure.
 
 **Status:** Prototype / Private development  
 **Stack:** Vue, Quasar, JavaScript / TypeScript
@@ -100,7 +100,7 @@ MLI-Knot / Tendoshk
 ├── MLI-Knot Mind
 ├── MLI-Knot Keyboard
 ├── MLI-Knot CableDiagApp
-├── Tendoshk App
+├── MLI-Knot-Cursos
 ├── Tendoshk Video Forge
 ├── Cérebro Tendoshk Public
 └── Operational memory & governance layers
