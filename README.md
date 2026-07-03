@@ -112,9 +112,9 @@ See the full bilingual ecosystem overview: [`PROJECT_MAP.md`](PROJECT_MAP.md).
 
 ## Public Templates
 
-- [Prompt Governance Checklist](public-gists/prompt-governance-checklist.md)
-- [Project Resume Template](public-gists/project-resume-template.md)
-- [README Project Status Template](public-gists/readme-status-template.md)
+- [Prompt Governance Checklist](https://gist.github.com/proftectiagocosta-hash/96e4de684b44b3ae115f4641803e7893)
+- [Project Resume Template](https://gist.github.com/proftectiagocosta-hash/007d4e9659b2f997452abf550002d829)
+- [README Project Status Template](https://gist.github.com/proftectiagocosta-hash/057195ac4a551383358fb871f8993219)
 
 ---
 
