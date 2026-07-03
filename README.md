@@ -1,123 +1,154 @@
-# 👋 Olá, eu sou Tiago Costa | Hi, I'm Tiago Costa
+<div align="center">
 
-Também conhecido como **Tendoshk**, estou construindo o ecossistema **MLI-Knot/Tendoshk**: um conjunto de projetos que conecta desenvolvimento de software, inteligência artificial, automação, educação, memória operacional e criação digital.
+# Tiago Costa | Tendoshk
 
-Also known as **Tendoshk**, I am building the **MLI-Knot/Tendoshk** ecosystem: a set of projects connecting software development, artificial intelligence, automation, education, operational memory, and digital creation.
+### Software Developer in Progress • AI-Assisted Workflows • Python Desktop Tools • Prompt Governance • Educational Systems
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-proftectiagocosta--hash-111111?style=for-the-badge&logo=github)](https://github.com/proftectiagocosta-hash)
+[![MLI-Knot](https://img.shields.io/badge/MLI--Knot%20%2F%20Tendoshk-Ecosystem-0f0f0f?style=for-the-badge)](#featured-projects)
+[![Focus](https://img.shields.io/badge/Focus-Software%20%2B%20AI%20%2B%20Governance-0f0f0f?style=for-the-badge)](#current-focus)
 
-## 🇧🇷 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, com foco em transformar ideias, estudos e problemas reais em ferramentas funcionais.
-
-Meu trabalho atual gira em torno de:
-
-* aplicações desktop em Python;
-* automação assistida por IA;
-* sistemas de apoio à educação;
-* ferramentas de produtividade;
-* memória operacional e organização de conhecimento;
-* governança de prompts e processamento de contexto;
-* protótipos que unem software, estudo e criação.
-
-O objetivo central do meu GitHub é documentar minha evolução técnica e consolidar projetos reais do ecossistema **MLI-Knot/Tendoshk**.
-
-## 🇺🇸 About me
-
-I am a **Systems Analysis and Development** student and a developer in progress, focused on turning ideas, studies, and real-world problems into functional tools.
-
-My current work revolves around:
-
-* Python desktop applications;
-* AI-assisted automation;
-* educational support systems;
-* productivity tools;
-* operational memory and knowledge organization;
-* prompt governance and context processing;
-* prototypes that connect software, learning, and creation.
-
-The main goal of my GitHub is to document my technical evolution and consolidate real projects from the **MLI-Knot/Tendoshk** ecosystem.
+</div>
 
 ---
 
-## 🚀 Projetos em destaque | Featured Projects
+## About Me
 
-### 🧠 MLI-Knot Mind
+I am **Tiago Costa**, also known as **Tendoshk**.
 
-Processador de governança do ecossistema MLI-Knot/Tendoshk.
-Organiza critérios de resposta, honestidade intelectual, anti-alucinação, separação entre fato e hipótese, prompts mestres e protocolos de processamento.
+I build practical tools and structured systems under the **MLI-Knot / Tendoshk** ecosystem, combining software development, artificial intelligence, automation, education, operational memory, prompt governance, and digital creation.
 
-Governance processor for the MLI-Knot/Tendoshk ecosystem.
-It organizes response criteria, intellectual honesty, anti-hallucination rules, fact/hypothesis separation, master prompts, and processing protocols.
+My GitHub documents my evolution as a developer and the construction of an ecosystem that connects **software, structure, intelligence, and continuity**.
+
+---
+
+## Current Focus
+
+- **Python desktop applications**
+- **Windows automation tools**
+- **AI-assisted software workflows**
+- **Prompt governance and context processing**
+- **Educational support systems**
+- **Knowledge and operational memory architecture**
+- **Creative systems and video automation**
+
+---
+
+## Featured Projects
 
 ### ⌨️ MLI-Knot Keyboard
 
-Aplicação desktop local para Windows que simula digitação controlada em campos selecionados manualmente pelo usuário.
-Criada para situações legítimas em que um sistema não aceita colar texto, mas aceita digitação normal.
+A local Windows desktop app that performs controlled typing into manually selected fields.  
+Built for legitimate cases where paste is blocked but normal typing is accepted.
 
-Local Windows desktop app that simulates controlled keyboard typing into a field manually selected by the user.
-Built for legitimate cases where a system does not accept paste input but accepts normal typing.
+**Status:** Public / Released  
+**Stack:** Python, Tkinter, PyAutoGUI, Windows automation
+
+---
+
+### 🧠 Cérebro Tendoshk Public
+
+A public conceptual showcase for knowledge architecture, continuity, curation, and public/private separation.
+
+**Status:** Public / Preserved showcase  
+**Focus:** Continuity governance, knowledge architecture, public documentation
+
+---
+
+### 🧠 MLI-Knot Mind
+
+A governance and processing framework for AI-assisted workflows, focused on intellectual honesty, anti-hallucination, non-generic responses, and explicit separation between fact, hypothesis, inference, and limitation.
+
+**Status:** Private core / Public showcase planned  
+**Focus:** Prompt governance, response quality, context discipline
+
+---
 
 ### 🧪 MLI-Knot CableDiagApp
 
-Aplicação desktop em Python para diagnóstico básico de cabos RJ45/RJ11 e avaliação inicial de conectividade de rede local.
-Inclui interface Tkinter, simulações, validação de pinos, indicadores visuais e geração de relatório.
+A Python desktop application for basic RJ45/RJ11 diagnostics and early local network evaluation.
 
-Python desktop application for basic RJ45/RJ11 cable diagnostics and initial local network connectivity checks.
-It includes a Tkinter interface, simulations, pin validation, visual indicators, and report generation.
+**Status:** Academic prototype / In evolution  
+**Stack:** Python, Tkinter, JSON, pySerial
+
+---
 
 ### 📚 Tendoshk App
 
-Protótipo de plataforma educacional com cursos, progresso de aulas, fluxo de inscrição e estrutura inicial para certificados.
+Educational platform prototype with enrollment flow, lesson progression, and course structure.
 
-Educational platform prototype with courses, lesson progress, enrollment flow, and an initial certificate structure.
+**Status:** Prototype / Private development  
+**Stack:** Vue, Quasar, JavaScript / TypeScript
+
+---
 
 ### 🎬 Tendoshk Video Forge
 
-Projeto de geração e automação de vídeos com apoio de IA, integrando painel web, API e arquitetura de engine.
+A video generation and automation project combining web panel, API, and modular engine architecture.
 
-AI-assisted video generation and automation project, integrating a web panel, API, and engine architecture.
-
-### 🧠 Cérebro Tendoshk Público
-
-Vitrine pública de ideias, arquitetura de conhecimento, memória operacional, curadoria e continuidade do ecossistema Tendoshk.
-
-Public showcase for ideas, knowledge architecture, operational memory, curation, and continuity within the Tendoshk ecosystem.
+**Status:** Prototype / Private development  
+**Stack:** React, Vite, Node.js, Express
 
 ---
 
-## 🛠️ Tecnologias e ferramentas | Technologies & Tools
+## Ecosystem Map
 
-* Python
-* Tkinter
-* JavaScript / TypeScript
-* Vue / Quasar
-* React / Vite
-* Node.js / Express
-* Git / GitHub
-* Linux / WSL
-* Windows desktop automation
-* AI-assisted workflows
-* Knowledge management systems
+```text
+MLI-Knot / Tendoshk
+├── MLI-Knot Mind
+├── MLI-Knot Keyboard
+├── MLI-Knot CableDiagApp
+├── Tendoshk App
+├── Tendoshk Video Forge
+├── Cérebro Tendoshk Public
+└── Operational memory & governance layers
+```
 
 ---
 
-## 🌱 Em evolução | In progress
+## Technologies & Tools
 
-Este perfil acompanha minha jornada como desenvolvedor, criador e construtor do ecossistema **MLI-Knot/Tendoshk**.
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Tkinter](https://img.shields.io/badge/Tkinter-111111?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![Vue](https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs)
+![Quasar](https://img.shields.io/badge/Quasar-111111?style=for-the-badge&logo=quasar)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL-111111?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows%20Automation-111111?style=for-the-badge&logo=windows)
 
-This profile follows my journey as a developer, creator, and builder of the **MLI-Knot/Tendoshk** ecosystem.
+---
 
-> Do micro ao macro.
-> Do fractal ao universal.
-> Da partícula-base ao desenrolar do tapete da realidade.
+## Professional Direction
 
-> From the micro to the macro.
+I am especially interested in building systems that combine:
+
+- structure + creativity
+- software + intelligence
+- automation + responsibility
+- memory + continuity
+- practical tools + long-term architecture
+
+---
+
+## In Progress
+
+This profile reflects an evolving journey.
+
+Some repositories are public and ready for exploration. Others are private, paused, or being refined before public release.
+
+The goal is not only to publish code, but to build a coherent and meaningful ecosystem.
+
+---
+
+## Contact
+
+- GitHub: [@proftectiagocosta-hash](https://github.com/proftectiagocosta-hash)
+
+---
+
+> From the micro to the macro.  
 > From the fractal to the universal.
-> From the base particle to the unfolding of the fabric of reality.
-
----
-
-## 📫 Contato | Contact
-
-GitHub: [@proftectiagocosta-hash](https://github.com/proftectiagocosta-hash)
