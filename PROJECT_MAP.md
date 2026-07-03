@@ -16,7 +16,7 @@ Esta página resume a estrutura pública do ecossistema **MLI-Knot / Tendoshk**.
 | `cerebro-tendoshk-public` | Conceptual architecture showcase | Public / preserved showcase |
 | `mli-knot-mind-public` | Prompt governance showcase | Public / conceptual |
 | `MLI-Knot-CableDiagApp` | Cable diagnostics app | Academic prototype |
-| `tendoshk-app` | Course platform prototype | Prototype |
+| `MLI-Knot-Cursos` | Course website / educational platform | Prototype |
 | `tendoshk-video-forge` | Video generation forge | Prototype |
 | `mli-knot-video-forge-lite` | Lightweight script package generator | Prototype |
 | `memoria-operacional-mli-knot` | Operational memory concept | Early structure |
@@ -38,7 +38,7 @@ MLI-Knot / Tendoshk
 │   ├── mli-knot-mind-public
 │   └── MLI-Knot_mind
 ├── Education systems
-│   └── tendoshk-app
+│   └── MLI-Knot-Cursos
 ├── Video and creative automation
 │   ├── tendoshk-video-forge
 │   └── mli-knot-video-forge-lite
@@ -55,7 +55,7 @@ MLI-Knot / Tendoshk
 3. `mli-knot-mind-public` — public prompt governance showcase.
 4. `MLI-Knot-CableDiagApp` — academic prototype.
 5. `mli-knot-video-forge-lite` — lightweight creative automation prototype.
-6. `tendoshk-app` — education platform prototype.
+6. `MLI-Knot-Cursos` — course website prototype.
 
 ---
 
@@ -86,7 +86,15 @@ O ecossistema está sendo construído ao redor de:
 ## Current improvement backlog
 
 - Pin the recommended repositories on the GitHub profile.
-- Improve the `tendoshk-app` README.
+- Improve the `MLI-Knot-Cursos` README.
 - Define license and screenshots for `MLI-Knot-CableDiagApp` when appropriate.
 - Create 2 or 3 public sanitized Gists.
 - Keep the shared banner as the default visual standard for new repositories.
+
+---
+
+## Naming note
+
+`MLI-Knot-Cursos` is the current public identity of the course website project.
+
+The GitHub repository slug may still appear as `tendoshk-app` until a separate repository rename is explicitly performed.
