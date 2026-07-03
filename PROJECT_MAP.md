@@ -95,6 +95,4 @@ O ecossistema está sendo construído ao redor de:
 
 ## Naming note
 
-`MLI-Knot-Cursos` is the current public identity of the course website project.
-
-The GitHub repository slug may still appear as `tendoshk-app` until a separate repository rename is explicitly performed.
+`MLI-Knot-Cursos` is the current repository name and public identity of the course website project.
