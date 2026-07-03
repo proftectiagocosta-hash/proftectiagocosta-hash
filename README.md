@@ -61,7 +61,7 @@ A public conceptual showcase for knowledge architecture, continuity, curation, a
 
 A governance and processing framework for AI-assisted workflows, focused on intellectual honesty, anti-hallucination, non-generic responses, and explicit separation between fact, hypothesis, inference, and limitation.
 
-**Status:** Private core / Public showcase planned  
+**Status:** Private core / Public showcase available  
 **Focus:** Prompt governance, response quality, context discipline
 
 ---
@@ -105,6 +105,8 @@ MLI-Knot / Tendoshk
 ├── Cérebro Tendoshk Public
 └── Operational memory & governance layers
 ```
+
+See the full bilingual ecosystem overview: [`PROJECT_MAP.md`](PROJECT_MAP.md).
 
 ---
 
