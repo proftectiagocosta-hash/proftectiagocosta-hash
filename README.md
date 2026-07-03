@@ -110,6 +110,14 @@ See the full bilingual ecosystem overview: [`PROJECT_MAP.md`](PROJECT_MAP.md).
 
 ---
 
+## Public Templates
+
+- [Prompt Governance Checklist](public-gists/prompt-governance-checklist.md)
+- [Project Resume Template](public-gists/project-resume-template.md)
+- [README Project Status Template](public-gists/readme-status-template.md)
+
+---
+
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
