@@ -12,15 +12,17 @@ Esta página resume a estrutura pública atual do ecossistema **MLI-Knot / Tendo
 
 The current public showcase is composed of:
 
-- 3 public repositories;
+- 6 public repositories;
 - 3 public Gists/templates;
-- 1 profile repository with the ecosystem overview.
+- 1 profile repository with the ecosystem overview;
+- 2 private source projects with sanitized public showcases.
 
 A vitrine pública atual é composta por:
 
-- 3 repositórios públicos;
+- 6 repositórios públicos;
 - 3 Gists/templates públicos;
-- 1 repositório de perfil com a visão geral do ecossistema.
+- 1 repositório de perfil com a visão geral do ecossistema;
+- 2 projetos fonte privados com vitrines públicas sanitizadas.
 
 ---
 
@@ -32,6 +34,8 @@ A vitrine pública atual é composta por:
 | `MLI-Knot-keyboard` | Windows desktop typing tool | Public / released |
 | `cerebro-tendoshk-public` | Conceptual continuity architecture showcase | Public / preserved showcase |
 | `mli-knot-mind-public` | Prompt governance and AI response-quality showcase | Public / conceptual showcase |
+| `mli-knot-cursos-showcase` | Sanitized public showcase of the course platform flow | Public / sanitized showcase |
+| `mli-knot-scriptpackage-showcase` | Sanitized public showcase of ScriptPackage v0.1 | Public / sanitized showcase |
 
 ---
 
@@ -50,9 +54,9 @@ A vitrine pública atual é composta por:
 | Repository | Role | Current public decision |
 |---|---|---|
 | `MLI-Knot-CableDiagApp` | Cable diagnostics app | Private / paused for now |
-| `MLI-Knot-Cursos` | Course website / educational platform | Private / polish README first |
+| `MLI-Knot-Cursos` | Course website / educational platform | Private source / public showcase available |
 | `tendoshk-video-forge` | Video generation forge | Private / internal prototype |
-| `mli-knot-video-forge-lite` | Lightweight ScriptPackage generator | Private / organize docs before showcase |
+| `mli-knot-video-forge-lite` | Lightweight ScriptPackage generator | Private source / public ScriptPackage showcase available |
 | `memoria-operacional-mli-knot` | Operational memory concept | Private / early structure |
 | `MLI-Knot_mind` | Private governance processor core | Private core / public showcase exists separately |
 | `cerebro-externo-tendoshk` | Previous external-brain repository | Private / paused reference |
@@ -70,6 +74,9 @@ MLI-Knot / Tendoshk
 ├── Public conceptual showcases
 │   ├── cerebro-tendoshk-public
 │   └── mli-knot-mind-public
+├── Public sanitized showcases
+│   ├── mli-knot-cursos-showcase
+│   └── mli-knot-scriptpackage-showcase
 ├── Public templates
 │   ├── Prompt Governance Checklist
 │   ├── Project Resume Template
@@ -77,12 +84,12 @@ MLI-Knot / Tendoshk
 ├── Practical tools
 │   └── MLI-Knot-CableDiagApp (private / paused)
 ├── Education systems
-│   ├── MLI-Knot-Cursos (private)
-│   └── mli-knot-cursos-showcase (planned)
+│   ├── MLI-Knot-Cursos (private source)
+│   └── mli-knot-cursos-showcase (public showcase)
 ├── Video and creative automation
 │   ├── tendoshk-video-forge (private)
-│   ├── mli-knot-video-forge-lite (private)
-│   └── mli-knot-scriptpackage-showcase (planned)
+│   ├── mli-knot-video-forge-lite (private source)
+│   └── mli-knot-scriptpackage-showcase (public showcase)
 └── Operational memory
     ├── memoria-operacional-mli-knot (private)
     └── cerebro-externo-tendoshk (private / paused reference)
@@ -92,21 +99,25 @@ MLI-Knot / Tendoshk
 
 ## Current pinned public items
 
+Pinned items are managed manually in the GitHub profile UI.
+
+A stronger current pin strategy is:
+
 1. `MLI-Knot-keyboard` — main usable public tool.
-2. `cerebro-tendoshk-public` — conceptual continuity architecture showcase.
-3. `mli-knot-mind-public` — public prompt governance showcase.
-4. Prompt Governance Checklist — public Gist.
-5. Project Resume Template — public Gist.
-6. README Project Status Template — public Gist.
+2. `mli-knot-mind-public` — public prompt governance showcase.
+3. `mli-knot-cursos-showcase` — public sanitized educational-platform showcase.
+4. `mli-knot-scriptpackage-showcase` — public sanitized ScriptPackage showcase.
+5. Prompt Governance Checklist — public Gist.
+6. Project Resume Template or README Project Status Template — public Gist.
 
 ---
 
-## Showcase candidates
+## Completed public showcases
 
-| Planned showcase | Source project | Purpose | Status |
+| Public showcase | Source project | Purpose | Status |
 |---|---|---|---|
-| `mli-knot-cursos-showcase` | `MLI-Knot-Cursos` | Public sanitized showcase of the course platform flow | Planned |
-| `mli-knot-scriptpackage-showcase` | `mli-knot-video-forge-lite` | Public showcase of the ScriptPackage v0.1 format | Planned |
+| `mli-knot-cursos-showcase` | `MLI-Knot-Cursos` | Public sanitized showcase of the course platform flow | Created / public |
+| `mli-knot-scriptpackage-showcase` | `mli-knot-video-forge-lite` | Public sanitized showcase of the ScriptPackage v0.1 format | Created / public |
 
 `MLI-Knot-CableDiagApp` is intentionally not listed as an active showcase candidate right now because it is paused by decision.
 
@@ -138,18 +149,22 @@ O ecossistema está sendo construído ao redor de:
 
 ## Current improvement backlog
 
-1. Update the profile README to present the current public surface more clearly.
-2. Update `mli-knot-mind-public` with links to the public companion templates.
-3. Update `cerebro-tendoshk-public` only with related-resource links, without resuming active evolution.
-4. Clean the `MLI-Knot-Cursos` README while keeping the repository private.
-5. Create `mli-knot-cursos-showcase` as a sanitized public showcase.
-6. Organize `mli-knot-video-forge-lite` documentation while keeping the repository private.
-7. Create `mli-knot-scriptpackage-showcase` as a sanitized public showcase.
+1. Keep `MLI-Knot-CableDiagApp` private and paused until an explicit decision changes its status.
+2. Keep `MLI-Knot-Cursos` private while the public showcase remains the safe external surface.
+3. Keep `mli-knot-video-forge-lite` private while the ScriptPackage showcase remains the safe external surface.
+4. Optionally add related-resource links to `mli-knot-mind-public` and `cerebro-tendoshk-public`.
+5. Review profile pins manually to decide whether the two new showcases should replace one or more Gists.
 
 ---
 
 ## Naming note
 
-`MLI-Knot-Cursos` is the current repository name and public identity of the course website project.
+`MLI-Knot-Cursos` is the current private repository name and source identity of the course website project.
+
+`mli-knot-cursos-showcase` is its public sanitized showcase.
+
+`mli-knot-video-forge-lite` remains the private source project for the ScriptPackage workflow.
+
+`mli-knot-scriptpackage-showcase` is the public sanitized showcase of the ScriptPackage v0.1 concept.
 
 `MLI-Knot-CableDiagApp` remains private and paused for now.
