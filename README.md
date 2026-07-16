@@ -36,6 +36,18 @@ My GitHub documents my evolution as a developer and the construction of an ecosy
 
 ---
 
+## Current Public Surface
+
+The current public surface is intentionally small and curated:
+
+- **3 public repositories**: one usable tool and two conceptual showcases.
+- **3 public Gists/templates**: lightweight resources for safer AI-assisted work and project documentation.
+- **1 ecosystem map**: a bilingual overview of public, private, paused, and planned layers.
+
+See the full structure in [`PROJECT_MAP.md`](PROJECT_MAP.md).
+
+---
+
 ## Featured Projects
 
 ### ⌨️ MLI-Knot Keyboard
@@ -70,7 +82,7 @@ A governance and processing framework for AI-assisted workflows, focused on inte
 
 A Python desktop application for basic RJ45/RJ11 diagnostics and early local network evaluation.
 
-**Status:** Academic prototype / In evolution  
+**Status:** Private / Paused for now  
 **Stack:** Python, Tkinter, JSON, pySerial
 
 ---
@@ -97,12 +109,12 @@ A video generation and automation project combining web panel, API, and modular 
 
 ```text
 MLI-Knot / Tendoshk
-├── MLI-Knot Mind
-├── MLI-Knot Keyboard
-├── MLI-Knot CableDiagApp
-├── MLI-Knot-Cursos
-├── Tendoshk Video Forge
-├── Cérebro Tendoshk Public
+├── Public identity
+├── Public tools
+├── Public conceptual showcases
+├── Public templates
+├── Private prototypes
+├── Planned showcases
 └── Operational memory & governance layers
 ```
 
@@ -112,9 +124,11 @@ See the full bilingual ecosystem overview: [`PROJECT_MAP.md`](PROJECT_MAP.md).
 
 ## Public Templates
 
-- [Prompt Governance Checklist](https://gist.github.com/proftectiagocosta-hash/96e4de684b44b3ae115f4641803e7893)
-- [Project Resume Template](https://gist.github.com/proftectiagocosta-hash/007d4e9659b2f997452abf550002d829)
-- [README Project Status Template](https://gist.github.com/proftectiagocosta-hash/057195ac4a551383358fb871f8993219)
+| Template | Purpose | Link |
+|---|---|---|
+| Prompt Governance Checklist | Checklist for safer AI-assisted work, with explicit separation between facts, hypotheses, inferences, limitations, decisions, and next steps. | [Open Gist](https://gist.github.com/proftectiagocosta-hash/96e4de684b44b3ae115f4641803e7893) |
+| Project Resume Template | Small template for restarting project work without losing what already works, what remains pending, and what the next action is. | [Open Gist](https://gist.github.com/proftectiagocosta-hash/007d4e9659b2f997452abf550002d829) |
+| README Project Status Template | Lightweight README status block for making a repository clearer about its type, stage, stack, features, limits, and next improvements. | [Open Gist](https://gist.github.com/proftectiagocosta-hash/057195ac4a551383358fb871f8993219) |
 
 ---
 
@@ -152,7 +166,7 @@ This profile reflects an evolving journey.
 
 Some repositories are public and ready for exploration. Others are private, paused, or being refined before public release.
 
-The goal is not only to publish code, but to build a coherent and meaningful ecosystem.
+The current strategy is to publish only curated public surfaces while keeping private cores, prototypes, and sensitive operational material separated.
 
 ---
 
