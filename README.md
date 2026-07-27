@@ -40,7 +40,7 @@ My GitHub documents my evolution as a developer and the construction of an ecosy
 
 The current public surface is intentionally small and curated:
 
-- **6 public repositories**: one usable tool, two conceptual showcases, two sanitized project showcases, and this profile entrypoint.
+- **7 public repositories**: one usable tool, two conceptual showcases, two sanitized project showcases, one sanitized technical showcase, and this profile entrypoint.
 - **3 public Gists/templates**: lightweight resources for safer AI-assisted work and project documentation.
 - **1 ecosystem map**: a bilingual overview of public, private, paused, and planned layers.
 
@@ -96,6 +96,16 @@ A sanitized public showcase of **ScriptPackage v0.1**, the structured package fo
 
 ---
 
+### 🧪 MLI-Knot LAB Cluster Public
+
+A sanitized public technical showcase documenting infrastructure experiments, controlled publication practices, architecture evolution, and reproducible auditing workflows.
+
+**Status:** Public / Sanitized technical showcase  
+**Repository:** [`MLI-Knot-LAB-CLUSTER-PUBLIC`](https://github.com/proftectiagocosta-hash/MLI-Knot-LAB-CLUSTER-PUBLIC)  
+**Focus:** Infrastructure documentation, publication auditing, architecture, controlled public/private separation
+
+---
+
 ### 🧪 MLI-Knot CableDiagApp
 
 A Python desktop application for basic RJ45/RJ11 diagnostics and early local network evaluation.
@@ -132,7 +142,8 @@ MLI-Knot / Tendoshk
 ├── Public identity
 ├── Public tools
 ├── Public conceptual showcases
-├── Public sanitized showcases
+├── Public sanitized project showcases
+├── Public sanitized technical showcases
 ├── Public templates
 ├── Private prototypes
 └── Operational memory & governance layers
