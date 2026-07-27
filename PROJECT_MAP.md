@@ -12,17 +12,23 @@ Esta página resume a estrutura pública atual do ecossistema **MLI-Knot / Tendo
 
 The current public showcase is composed of:
 
-- 6 public repositories;
+- 7 public repositories, including the profile entrypoint;
 - 3 public Gists/templates;
-- 1 profile repository with the ecosystem overview;
-- 2 private source projects with sanitized public showcases.
+- 1 usable public tool;
+- 2 public conceptual showcases;
+- 2 sanitized public project showcases;
+- 1 sanitized public technical showcase;
+- 3 private repositories paired with sanitized public showcases, including one historical infrastructure snapshot.
 
 A vitrine pública atual é composta por:
 
-- 6 repositórios públicos;
+- 7 repositórios públicos, incluindo o perfil de entrada;
 - 3 Gists/templates públicos;
-- 1 repositório de perfil com a visão geral do ecossistema;
-- 2 projetos fonte privados com vitrines públicas sanitizadas.
+- 1 ferramenta pública utilizável;
+- 2 vitrines conceituais públicas;
+- 2 vitrines públicas sanitizadas de projetos;
+- 1 vitrine pública técnica sanitizada;
+- 3 repositórios privados relacionados a vitrines públicas sanitizadas, incluindo um snapshot histórico de infraestrutura.
 
 ---
 
@@ -34,8 +40,9 @@ A vitrine pública atual é composta por:
 | `MLI-Knot-keyboard` | Windows desktop typing tool | Public / released |
 | `cerebro-tendoshk-public` | Conceptual continuity architecture showcase | Public / preserved showcase |
 | `mli-knot-mind-public` | Prompt governance and AI response-quality showcase | Public / conceptual showcase |
-| `mli-knot-cursos-showcase` | Sanitized public showcase of the course platform flow | Public / sanitized showcase |
-| `mli-knot-scriptpackage-showcase` | Sanitized public showcase of ScriptPackage v0.1 | Public / sanitized showcase |
+| `mli-knot-cursos-showcase` | Sanitized public showcase of the course platform flow | Public / sanitized project showcase |
+| `mli-knot-scriptpackage-showcase` | Sanitized public showcase of ScriptPackage v0.1 | Public / sanitized project showcase |
+| `MLI-Knot-LAB-CLUSTER-PUBLIC` | Sanitized technical showcase of the infrastructure lab | Public / sanitized technical showcase |
 
 ---
 
@@ -59,7 +66,8 @@ A vitrine pública atual é composta por:
 | `mli-knot-video-forge-lite` | Lightweight ScriptPackage generator | Private source / public ScriptPackage showcase available |
 | `memoria-operacional-mli-knot` | Operational memory concept | Private / early structure |
 | `MLI-Knot_mind` | Private governance processor core | Private core / public showcase exists separately |
-| `cerebro-externo-tendoshk` | Previous external-brain repository | Private / paused reference |
+| `cerebro-externo-tendoshk` | Previous external-brain repository | Private / paused historical reference |
+| `MLI-Knot-LAB-CLUSTER` | Historical snapshot of the physical infrastructure lab | Private / historical reference / public sanitized showcase available |
 
 ---
 
@@ -74,9 +82,11 @@ MLI-Knot / Tendoshk
 ├── Public conceptual showcases
 │   ├── cerebro-tendoshk-public
 │   └── mli-knot-mind-public
-├── Public sanitized showcases
+├── Public sanitized project showcases
 │   ├── mli-knot-cursos-showcase
 │   └── mli-knot-scriptpackage-showcase
+├── Public sanitized technical showcases
+│   └── MLI-Knot-LAB-CLUSTER-PUBLIC
 ├── Public templates
 │   ├── Prompt Governance Checklist
 │   ├── Project Resume Template
@@ -90,9 +100,13 @@ MLI-Knot / Tendoshk
 │   ├── tendoshk-video-forge (private)
 │   ├── mli-knot-video-forge-lite (private source)
 │   └── mli-knot-scriptpackage-showcase (public showcase)
-└── Operational memory
+├── Infrastructure and laboratory
+│   ├── MLI-Knot-LAB-CLUSTER (private / historical snapshot)
+│   └── MLI-Knot-LAB-CLUSTER-PUBLIC (public / sanitized technical showcase)
+└── Operational memory and governance
     ├── memoria-operacional-mli-knot (private)
-    └── cerebro-externo-tendoshk (private / paused reference)
+    ├── MLI-Knot_mind (private core)
+    └── cerebro-externo-tendoshk (private / paused historical reference)
 ```
 
 ---
@@ -110,16 +124,29 @@ A stronger current pin strategy is:
 5. Prompt Governance Checklist — public Gist.
 6. Project Resume Template or README Project Status Template — public Gist.
 
+The role of `MLI-Knot-LAB-CLUSTER-PUBLIC` in the pinned portfolio should be decided separately from this inventory update.
+
 ---
 
 ## Completed public showcases
 
-| Public showcase | Source project | Purpose | Status |
+| Public showcase | Private reference | Purpose | Status |
 |---|---|---|---|
 | `mli-knot-cursos-showcase` | `MLI-Knot-Cursos` | Public sanitized showcase of the course platform flow | Created / public |
 | `mli-knot-scriptpackage-showcase` | `mli-knot-video-forge-lite` | Public sanitized showcase of the ScriptPackage v0.1 format | Created / public |
+| `MLI-Knot-LAB-CLUSTER-PUBLIC` | `MLI-Knot-LAB-CLUSTER` | Public sanitized technical showcase of the laboratory's documented evolution | Created / public |
 
 `MLI-Knot-CableDiagApp` is intentionally not listed as an active showcase candidate right now because it is paused by decision.
+
+---
+
+## LAB-CLUSTER public/private boundary
+
+`MLI-Knot-LAB-CLUSTER` is a private historical snapshot. Its files document previously known states and do not confirm that the physical infrastructure is currently active, reachable, or validated.
+
+`MLI-Knot-LAB-CLUSTER-PUBLIC` is an independent sanitized showcase with its own Git history. It is not a fork, mirror, or direct publication of the private operational tree.
+
+The public showcase documents selected learning, architecture, automation, distributed processing, and observability patterns without exposing operational infrastructure data. No operational restart is implied by either repository.
 
 ---
 
@@ -133,6 +160,7 @@ The ecosystem is being built around:
 - operational memory;
 - educational systems;
 - creative automation;
+- infrastructure learning and observability;
 - safe public/private separation.
 
 O ecossistema está sendo construído ao redor de:
@@ -143,6 +171,7 @@ O ecossistema está sendo construído ao redor de:
 - memória operacional;
 - sistemas educacionais;
 - automação criativa;
+- aprendizado de infraestrutura e observabilidade;
 - separação segura entre público e privado.
 
 ---
@@ -152,8 +181,10 @@ O ecossistema está sendo construído ao redor de:
 1. Keep `MLI-Knot-CableDiagApp` private and paused until an explicit decision changes its status.
 2. Keep `MLI-Knot-Cursos` private while the public showcase remains the safe external surface.
 3. Keep `mli-knot-video-forge-lite` private while the ScriptPackage showcase remains the safe external surface.
-4. Optionally add related-resource links to `mli-knot-mind-public` and `cerebro-tendoshk-public`.
-5. Review profile pins manually to decide whether the two new showcases should replace one or more Gists.
+4. Keep `MLI-Knot-LAB-CLUSTER` as a private historical snapshot unless a future decision establishes a newly validated operational phase.
+5. Maintain `MLI-Knot-LAB-CLUSTER-PUBLIC` as an independent sanitized technical showcase.
+6. Optionally add related-resource links to `mli-knot-mind-public` and `cerebro-tendoshk-public`.
+7. Review profile pins manually to decide whether the LAB public showcase should replace one of the current pinned templates or showcases.
 
 ---
 
@@ -166,5 +197,9 @@ O ecossistema está sendo construído ao redor de:
 `mli-knot-video-forge-lite` remains the private source project for the ScriptPackage workflow.
 
 `mli-knot-scriptpackage-showcase` is the public sanitized showcase of the ScriptPackage v0.1 concept.
+
+`MLI-Knot-LAB-CLUSTER` is the private historical snapshot of the laboratory.
+
+`MLI-Knot-LAB-CLUSTER-PUBLIC` is its independent public sanitized technical showcase.
 
 `MLI-Knot-CableDiagApp` remains private and paused for now.
