@@ -115,16 +115,18 @@ MLI-Knot / Tendoshk
 
 Pinned items are managed manually in the GitHub profile UI.
 
-A stronger current pin strategy is:
+The current pinned portfolio, visually confirmed on 2026-07-29, is:
 
-1. `MLI-Knot-keyboard` — main usable public tool.
-2. `mli-knot-mind-public` — public prompt governance showcase.
-3. `mli-knot-cursos-showcase` — public sanitized educational-platform showcase.
-4. `mli-knot-scriptpackage-showcase` — public sanitized ScriptPackage showcase.
-5. Prompt Governance Checklist — public Gist.
-6. Project Resume Template or README Project Status Template — public Gist.
+1. `cerebro-tendoshk-public` — preserved conceptual continuity showcase.
+2. `MLI-Knot-keyboard` — usable public Windows typing tool.
+3. `mli-knot-mind-public` — public prompt-governance showcase.
+4. `mli-knot-cursos-showcase` — sanitized educational-platform showcase.
+5. `mli-knot-scriptpackage-showcase` — sanitized ScriptPackage showcase.
+6. `MLI-Knot-LAB-CLUSTER-PUBLIC` — sanitized technical laboratory showcase.
 
-The role of `MLI-Knot-LAB-CLUSTER-PUBLIC` in the pinned portfolio should be decided separately from this inventory update.
+The six project repositories in the current public surface are pinned. The profile repository remains the ecosystem entrypoint and is not part of the pinned project portfolio.
+
+No public Gist is currently pinned.
 
 ---
 
@@ -184,7 +186,6 @@ O ecossistema está sendo construído ao redor de:
 4. Keep `MLI-Knot-LAB-CLUSTER` as a private historical snapshot unless a future decision establishes a newly validated operational phase.
 5. Maintain `MLI-Knot-LAB-CLUSTER-PUBLIC` as an independent sanitized technical showcase.
 6. Optionally add related-resource links to `mli-knot-mind-public` and `cerebro-tendoshk-public`.
-7. Review profile pins manually to decide whether the LAB public showcase should replace one of the current pinned templates or showcases.
 
 ---
 
