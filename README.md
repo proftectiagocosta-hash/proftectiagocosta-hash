@@ -2,12 +2,12 @@
 
 # Tiago Costa | Tendoshk
 
-<img src="https://raw.githubusercontent.com/proftectiagocosta-hash/mli-knot-mind-public/main/assets/matrix-inspired-banner.gif" width="100%" alt="Matrix-inspired cyber banner for Tiago Costa / Tendoshk" />
+<img src="https://raw.githubusercontent.com/proftectiagocosta-hash/MLI-Knot-Mind-Showcase/main/assets/matrix-inspired-banner.gif" width="100%" alt="Matrix-inspired cyber banner for Tiago Costa / Tendoshk" />
 
-### Software Developer in Progress • AI-Assisted Workflows • Python Desktop Tools • Prompt Governance • Educational Systems
+### Software Development • AI-Assisted Workflows • Python Tools • Context Governance • Educational Systems
 
 [![GitHub](https://img.shields.io/badge/GitHub-proftectiagocosta--hash-111111?style=for-the-badge&logo=github)](https://github.com/proftectiagocosta-hash)
-[![MLI-Knot](https://img.shields.io/badge/MLI--Knot%20%2F%20Tendoshk-Ecosystem-0f0f0f?style=for-the-badge)](#featured-projects)
+[![MLI-Knot](https://img.shields.io/badge/MLI--Knot%20%2F%20Tendoshk-Ecosystem-0f0f0f?style=for-the-badge)](#public-ecosystem)
 [![Focus](https://img.shields.io/badge/Focus-Software%20%2B%20AI%20%2B%20Governance-0f0f0f?style=for-the-badge)](#current-focus)
 
 </div>
@@ -18,148 +18,90 @@
 
 I am **Tiago Costa**, also known as **Tendoshk**.
 
-I build practical tools and structured systems under the **MLI-Knot / Tendoshk** ecosystem, combining software development, artificial intelligence, automation, education, operational memory, prompt governance, and digital creation.
+I build practical tools and structured systems under the **MLI-Knot / Tendoshk** ecosystem, combining software development, artificial intelligence, automation, education, operational continuity, context governance, and digital creation.
 
-My GitHub documents my evolution as a developer and the construction of an ecosystem that connects **software, structure, intelligence, and continuity**.
+My public GitHub is intentionally curated: public tools and sanitized showcases stay visible here, while private source projects, operational material, credentials, personal data, and unrevised internal work remain outside the public surface.
 
 ---
 
 ## Current Focus
 
-- **Python desktop applications**
-- **Windows automation tools**
-- **AI-assisted software workflows**
-- **Prompt governance and context processing**
-- **Educational support systems**
-- **Knowledge and operational memory architecture**
-- **Creative systems and video automation**
+- Python desktop applications
+- Windows automation tools
+- AI-assisted software workflows
+- context and prompt governance
+- educational support systems
+- operational continuity and memory architecture
+- reproducible documentation and auditability
+- creative systems and video automation
 
 ---
 
 ## Current Public Surface
 
-The current public surface is intentionally small and curated:
+The current GitHub surface contains **7 public repositories**: six project/showcase repositories plus this profile entrypoint.
 
-- **7 public repositories**: one usable tool, two conceptual showcases, two sanitized project showcases, one sanitized technical showcase, and this profile entrypoint.
-- **3 public Gists/templates**: lightweight resources for safer AI-assisted work and project documentation.
-- **1 ecosystem map**: a bilingual overview of public, private, paused, and planned layers.
+| Repository | Public role | Status |
+|---|---|---|
+| [`MLI-Knot-Keyboard`](https://github.com/proftectiagocosta-hash/MLI-Knot-Keyboard) | Usable Windows typing tool | Public / released |
+| [`Tendoshk-Cerebro-Showcase`](https://github.com/proftectiagocosta-hash/Tendoshk-Cerebro-Showcase) | Continuity and memory-governance concepts | Public / preserved showcase |
+| [`MLI-Knot-Mind-Showcase`](https://github.com/proftectiagocosta-hash/MLI-Knot-Mind-Showcase) | Context and response-governance concepts | Public / conceptual showcase |
+| [`MLI-Knot-Cursos-Showcase`](https://github.com/proftectiagocosta-hash/MLI-Knot-Cursos-Showcase) | Sanitized educational-platform flow | Public / sanitized showcase |
+| [`MLI-Knot-ScriptPackage-Showcase`](https://github.com/proftectiagocosta-hash/MLI-Knot-ScriptPackage-Showcase) | Sanitized ScriptPackage v0.1 concept | Public / sanitized showcase |
+| [`MLI-Knot-LAB-CLUSTER-PUBLIC`](https://github.com/proftectiagocosta-hash/MLI-Knot-LAB-CLUSTER-PUBLIC) | Sanitized infrastructure and publication-audit showcase | Public / audited technical showcase |
+| [`proftectiagocosta-hash`](https://github.com/proftectiagocosta-hash/proftectiagocosta-hash) | Profile and ecosystem entrypoint | Public / profile |
 
-See the full structure in [`PROJECT_MAP.md`](PROJECT_MAP.md).
+See the broader public/private map in [`PROJECT_MAP.md`](PROJECT_MAP.md).
 
 ---
 
-## Featured Projects
+## Public Ecosystem
 
 ### ⌨️ MLI-Knot Keyboard
 
-A local Windows desktop app that performs controlled typing into manually selected fields.  
-Built for legitimate cases where paste is blocked but normal typing is accepted.
+A local Windows desktop app that performs controlled typing into a field manually selected by the user.
 
-**Status:** Public / Released  
-**Stack:** Python, Tkinter, PyAutoGUI, Windows automation
+**Focus:** Python, Tkinter, PyAutoGUI, Windows automation.
 
----
+### 🧠 Cérebro Tendoshk Showcase
 
-### 🧠 Cérebro Tendoshk Public
+A preserved conceptual showcase for continuity, memory curation, long-running project organization, and public/private separation.
 
-A public conceptual showcase for knowledge architecture, continuity, curation, and public/private separation.
+**Focus:** continuity governance, knowledge architecture, resumability, public documentation.
 
-**Status:** Public / Preserved showcase  
-**Focus:** Continuity governance, knowledge architecture, public documentation
+### 🧠 MLI-Knot Mind Showcase
 
----
+A public conceptual showcase for context governance and AI response quality.
 
-### 🧠 MLI-Knot Mind Public
-
-A public prompt governance and AI response-quality showcase.
-
-**Status:** Public / Conceptual showcase  
-**Focus:** Prompt governance, intellectual honesty, response quality, context discipline
-
----
+**Focus:** intellectual honesty, fact/hypothesis/inference/limitation separation, scope discipline, traceability, anti-hallucination.
 
 ### 📚 MLI-Knot-Cursos Showcase
 
-A sanitized public showcase of the educational platform flow planned for the private **MLI-Knot-Cursos** project.
+A sanitized public showcase of an educational-platform flow while the source project remains outside the public GitHub surface.
 
-**Status:** Public / Sanitized showcase  
-**Focus:** Catalog, enrollment, lessons, progress, study continuity, certificate structure
+**Focus:** catalog, enrollment, lessons, progress, study continuity, certificate structure.
 
----
+### 🎬 MLI-Knot-ScriptPackage-Showcase
 
-### 🎬 MLI-Knot ScriptPackage Showcase
+A sanitized public showcase of the **ScriptPackage v0.1** concept used in a private/local video workflow prototype.
 
-A sanitized public showcase of **ScriptPackage v0.1**, the structured package format used by the private Forge Lite prototype.
+**Focus:** prompt-to-package workflow, storyboard structure, fictional examples, public/private boundary.
 
-**Status:** Public / Sanitized showcase  
-**Focus:** Prompt-to-package workflow, storyboard structure, fictional examples, public/private boundary
+### 🧪 MLI-Knot-LAB-CLUSTER-PUBLIC
 
----
+A sanitized public technical showcase documenting infrastructure experiments, architecture evolution, controlled publication, and reproducible auditing workflows.
 
-### 🧪 MLI-Knot LAB Cluster Public
-
-A sanitized public technical showcase documenting infrastructure experiments, controlled publication practices, architecture evolution, and reproducible auditing workflows.
-
-**Status:** Public / Sanitized technical showcase  
-**Repository:** [`MLI-Knot-LAB-CLUSTER-PUBLIC`](https://github.com/proftectiagocosta-hash/MLI-Knot-LAB-CLUSTER-PUBLIC)  
-**Focus:** Infrastructure documentation, publication auditing, architecture, controlled public/private separation
-
----
-
-### 🧪 MLI-Knot CableDiagApp
-
-A Python desktop application for basic RJ45/RJ11 diagnostics and early local network evaluation.
-
-**Status:** Private / Paused for now  
-**Stack:** Python, Tkinter, JSON, pySerial
-
----
-
-### 📚 MLI-Knot-Cursos
-
-A course website prototype with enrollment flow, lesson progression, study continuity, and certificate structure.
-
-**Status:** Private source / Public showcase available  
-**Public showcase:** [`mli-knot-cursos-showcase`](https://github.com/proftectiagocosta-hash/mli-knot-cursos-showcase)  
-**Stack:** Vue, Quasar, JavaScript / TypeScript
-
----
-
-### 🎬 MLI-Knot Video Forge Lite
-
-A private Python + Streamlit prototype that turns a prompt into a structured **ScriptPackage v0.1**.
-
-**Status:** Private source / Public ScriptPackage showcase available  
-**Public showcase:** [`mli-knot-scriptpackage-showcase`](https://github.com/proftectiagocosta-hash/mli-knot-scriptpackage-showcase)  
-**Stack:** Python, Streamlit, Pydantic, MoviePy, Pillow
-
----
-
-## Ecosystem Map
-
-```text
-MLI-Knot / Tendoshk
-├── Public identity
-├── Public tools
-├── Public conceptual showcases
-├── Public sanitized project showcases
-├── Public sanitized technical showcases
-├── Public templates
-├── Private prototypes
-└── Operational memory & governance layers
-```
-
-See the full bilingual ecosystem overview: [`PROJECT_MAP.md`](PROJECT_MAP.md).
+**Focus:** infrastructure documentation, publication auditing, sanitization, reproducibility.
 
 ---
 
 ## Public Templates
 
-| Template | Purpose | Link |
-|---|---|---|
-| Prompt Governance Checklist | Checklist for safer AI-assisted work, with explicit separation between facts, hypotheses, inferences, limitations, decisions, and next steps. | [Open Gist](https://gist.github.com/proftectiagocosta-hash/96e4de684b44b3ae115f4641803e7893) |
-| Project Resume Template | Small template for restarting project work without losing what already works, what remains pending, and what the next action is. | [Open Gist](https://gist.github.com/proftectiagocosta-hash/007d4e9659b2f997452abf550002d829) |
-| README Project Status Template | Lightweight README status block for making a repository clearer about its type, stage, stack, features, limits, and next improvements. | [Open Gist](https://gist.github.com/proftectiagocosta-hash/057195ac4a551383358fb871f8993219) |
+| Template | Purpose |
+|---|---|
+| [Prompt Governance Checklist](https://gist.github.com/proftectiagocosta-hash/96e4de684b44b3ae115f4641803e7893) | Separate facts, hypotheses, inferences, limitations, decisions, and next steps. |
+| [Project Resume Template](https://gist.github.com/proftectiagocosta-hash/007d4e9659b2f997452abf550002d829) | Resume project work without losing what already works or remains pending. |
+| [README Project Status Template](https://gist.github.com/proftectiagocosta-hash/057195ac4a551383358fb871f8993219) | Make repository type, stage, limits, and next steps explicit. |
 
 ---
 
@@ -181,20 +123,19 @@ See the full bilingual ecosystem overview: [`PROJECT_MAP.md`](PROJECT_MAP.md).
 
 ## Professional Direction
 
-I am especially interested in building systems that combine:
+I am especially interested in systems that combine:
 
 - structure + creativity
 - software + intelligence
 - automation + responsibility
 - memory + continuity
 - practical tools + long-term architecture
+- experimentation + verification
 
 ---
 
-## In Progress
+## Public / Private Boundary
 
-This profile reflects an evolving journey.
+This profile is an entrypoint to the **curated public surface**, not an index of every project or operational repository.
 
-Some repositories are public and ready for exploration. Others are private, paused, or being refined before public release.
-
-The current strategy is to publish only curated public surfaces while keeping private cores, prototypes, and sensitive operational material separated.
+Public GitHub repositories are intended to be safe to inspect and share. Private source projects and operational material remain separated and are not represented here as active private GitHub mirrors.
