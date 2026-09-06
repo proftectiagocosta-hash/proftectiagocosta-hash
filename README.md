@@ -2,7 +2,7 @@
 
 # Tiago Costa | Tendoshk
 
-<img src="https://raw.githubusercontent.com/proftectiagocosta-hash/MLI-Knot-Mind-Showcase/main/assets/matrix-inspired-banner.gif" width="100%" alt="Matrix-inspired cyber banner for Tiago Costa / Tendoshk" />
+<img src="assets/matrix-inspired-banner.gif" width="100%" alt="Matrix-inspired cyber banner for Tiago Costa / Tendoshk" />
 
 ### Software Development • AI-Assisted Workflows • Python Tools • Context Governance • Educational Systems
 
