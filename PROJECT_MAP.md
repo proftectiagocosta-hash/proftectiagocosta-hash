@@ -1,6 +1,6 @@
 # Project Map / Mapa do Ecossistema
 
-![Cyber banner](https://raw.githubusercontent.com/proftectiagocosta-hash/mli-knot-mind-public/main/assets/matrix-inspired-banner.gif)
+![Cyber banner](assets/matrix-inspired-banner.gif)
 
 This page summarizes the current public-facing structure of the **MLI-Knot / Tendoshk** ecosystem.
 
@@ -37,11 +37,11 @@ A vitrine pública atual é composta por:
 | Repository | Role | Status |
 |---|---|---|
 | `proftectiagocosta-hash` | GitHub profile and ecosystem entrypoint | Public / active profile |
-| `MLI-Knot-keyboard` | Windows desktop typing tool | Public / released |
-| `cerebro-tendoshk-public` | Conceptual continuity architecture showcase | Public / preserved showcase |
-| `mli-knot-mind-public` | Prompt governance and AI response-quality showcase | Public / conceptual showcase |
-| `mli-knot-cursos-showcase` | Sanitized public showcase of the course platform flow | Public / sanitized project showcase |
-| `mli-knot-scriptpackage-showcase` | Sanitized public showcase of ScriptPackage v0.1 | Public / sanitized project showcase |
+| `MLI-Knot-Keyboard` | Windows desktop typing tool | Public / released |
+| `Tendoshk-Cerebro-Showcase` | Conceptual continuity architecture showcase | Public / preserved showcase |
+| `MLI-Knot-Mind-Showcase` | Prompt governance and AI response-quality showcase | Public / conceptual showcase |
+| `MLI-Knot-Cursos-Showcase` | Sanitized public showcase of the course platform flow | Public / sanitized project showcase |
+| `MLI-Knot-ScriptPackage-Showcase` | Sanitized public showcase of ScriptPackage v0.1 | Public / sanitized project showcase |
 | `MLI-Knot-LAB-CLUSTER-PUBLIC` | Sanitized technical showcase of the infrastructure lab | Public / sanitized technical showcase |
 
 ---
@@ -78,13 +78,13 @@ MLI-Knot / Tendoshk
 ├── Public identity
 │   └── proftectiagocosta-hash
 ├── Public tools
-│   └── MLI-Knot-keyboard
+│   └── MLI-Knot-Keyboard
 ├── Public conceptual showcases
-│   ├── cerebro-tendoshk-public
-│   └── mli-knot-mind-public
+│   ├── Tendoshk-Cerebro-Showcase
+│   └── MLI-Knot-Mind-Showcase
 ├── Public sanitized project showcases
-│   ├── mli-knot-cursos-showcase
-│   └── mli-knot-scriptpackage-showcase
+│   ├── MLI-Knot-Cursos-Showcase
+│   └── MLI-Knot-ScriptPackage-Showcase
 ├── Public sanitized technical showcases
 │   └── MLI-Knot-LAB-CLUSTER-PUBLIC
 ├── Public templates
@@ -95,11 +95,11 @@ MLI-Knot / Tendoshk
 │   └── MLI-Knot-CableDiagApp (private / paused)
 ├── Education systems
 │   ├── MLI-Knot-Cursos (private source)
-│   └── mli-knot-cursos-showcase (public showcase)
+│   └── MLI-Knot-Cursos-Showcase (public showcase)
 ├── Video and creative automation
 │   ├── tendoshk-video-forge (private)
 │   ├── mli-knot-video-forge-lite (private source)
-│   └── mli-knot-scriptpackage-showcase (public showcase)
+│   └── MLI-Knot-ScriptPackage-Showcase (public showcase)
 ├── Infrastructure and laboratory
 │   ├── MLI-Knot-LAB-CLUSTER (private / historical snapshot)
 │   └── MLI-Knot-LAB-CLUSTER-PUBLIC (public / sanitized technical showcase)
@@ -117,11 +117,11 @@ Pinned items are managed manually in the GitHub profile UI.
 
 The current pinned portfolio, visually confirmed on 2026-07-29, is:
 
-1. `cerebro-tendoshk-public` — preserved conceptual continuity showcase.
-2. `MLI-Knot-keyboard` — usable public Windows typing tool.
-3. `mli-knot-mind-public` — public prompt-governance showcase.
-4. `mli-knot-cursos-showcase` — sanitized educational-platform showcase.
-5. `mli-knot-scriptpackage-showcase` — sanitized ScriptPackage showcase.
+1. `Tendoshk-Cerebro-Showcase` — preserved conceptual continuity showcase.
+2. `MLI-Knot-Keyboard` — usable public Windows typing tool.
+3. `MLI-Knot-Mind-Showcase` — public prompt-governance showcase.
+4. `MLI-Knot-Cursos-Showcase` — sanitized educational-platform showcase.
+5. `MLI-Knot-ScriptPackage-Showcase` — sanitized ScriptPackage showcase.
 6. `MLI-Knot-LAB-CLUSTER-PUBLIC` — sanitized technical laboratory showcase.
 
 The six project repositories in the current public surface are pinned. The profile repository remains the ecosystem entrypoint and is not part of the pinned project portfolio.
@@ -134,8 +134,8 @@ No public Gist is currently pinned.
 
 | Public showcase | Private reference | Purpose | Status |
 |---|---|---|---|
-| `mli-knot-cursos-showcase` | `MLI-Knot-Cursos` | Public sanitized showcase of the course platform flow | Created / public |
-| `mli-knot-scriptpackage-showcase` | `mli-knot-video-forge-lite` | Public sanitized showcase of the ScriptPackage v0.1 format | Created / public |
+| `MLI-Knot-Cursos-Showcase` | `MLI-Knot-Cursos` | Public sanitized showcase of the course platform flow | Created / public |
+| `MLI-Knot-ScriptPackage-Showcase` | `mli-knot-video-forge-lite` | Public sanitized showcase of the ScriptPackage v0.1 format | Created / public |
 | `MLI-Knot-LAB-CLUSTER-PUBLIC` | `MLI-Knot-LAB-CLUSTER` | Public sanitized technical showcase of the laboratory's documented evolution | Created / public |
 
 `MLI-Knot-CableDiagApp` is intentionally not listed as an active showcase candidate right now because it is paused by decision.
@@ -185,7 +185,7 @@ O ecossistema está sendo construído ao redor de:
 3. Keep `mli-knot-video-forge-lite` private while the ScriptPackage showcase remains the safe external surface.
 4. Keep `MLI-Knot-LAB-CLUSTER` as a private historical snapshot unless a future decision establishes a newly validated operational phase.
 5. Maintain `MLI-Knot-LAB-CLUSTER-PUBLIC` as an independent sanitized technical showcase.
-6. Optionally add related-resource links to `mli-knot-mind-public` and `cerebro-tendoshk-public`.
+6. Optionally add related-resource links to `MLI-Knot-Mind-Showcase` and `Tendoshk-Cerebro-Showcase`.
 
 ---
 
@@ -193,11 +193,11 @@ O ecossistema está sendo construído ao redor de:
 
 `MLI-Knot-Cursos` is the current private repository name and source identity of the course website project.
 
-`mli-knot-cursos-showcase` is its public sanitized showcase.
+`MLI-Knot-Cursos-Showcase` is its public sanitized showcase.
 
 `mli-knot-video-forge-lite` remains the private source project for the ScriptPackage workflow.
 
-`mli-knot-scriptpackage-showcase` is the public sanitized showcase of the ScriptPackage v0.1 concept.
+`MLI-Knot-ScriptPackage-Showcase` is the public sanitized showcase of the ScriptPackage v0.1 concept.
 
 `MLI-Knot-LAB-CLUSTER` is the private historical snapshot of the laboratory.
 
